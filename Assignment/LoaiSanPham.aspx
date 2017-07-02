@@ -3,6 +3,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="FeaturedContent" runat="server">
 </asp:Content>
+duyenvuwa them
 <asp:Content ID="Content3" ContentPlaceHolderID="MainContent" runat="server">
     Loại sản phẩm
     <asp:GridView ID="GridView1" runat="server" AllowPaging="True" AllowSorting="True" AutoGenerateColumns="False" DataKeyNames="MaLoaiSP" DataSourceID="SqlDataSource1" Width="310px">

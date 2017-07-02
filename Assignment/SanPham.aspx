@@ -51,5 +51,6 @@
             <asp:Parameter Name="MaSP" Type="Int32" />
         </UpdateParameters>
     </asp:SqlDataSource>
+thạch sửa sản phẩm
     </asp:Content>
 
